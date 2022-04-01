@@ -1,6 +1,6 @@
 # Kodluyoruz Frontend Web Geliştime Hazırlık Programı 
 Bu repo  Kodluyoruz Frontend Web Geliştime Hazırlık Programı kapsamında 3. hafta HTML konusunun sonunda verilen ödev için yapılmıştır.
-İçinde img, CSS ve HTML dosyaları var. Verilen Ödev kapsamında basit bir HTML ve CSS örneği içemektedir.
+İçinde img, CSS ve HTML dosyaları var. Verilen Ödev kapsamında basit bir HTML ve CSS örneği içermektedir.
 Dilerseniz forklayabilir değişiklik yapabilir yorumlarınızla katkıda bulunabilirsiniz.
  Sevgiler.
 --- 
